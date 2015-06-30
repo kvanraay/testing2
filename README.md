@@ -1,4 +1,5 @@
 # testing2
-learning GitHub with Brian
+Hello everybody!!!!!!
 ##two pound signs
-*asterisk
+* asterisk with space
+* [ ] bracket
